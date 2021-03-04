@@ -1,2 +1,3 @@
 # rsschool-cv
-Mardown &amp; Git task
+
+[My CV](https://your-github-account.github.io/rsschool-cv/cv)
