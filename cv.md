@@ -69,3 +69,17 @@ function findShort(s){
 **Kharkov Professional Printing College** - _professional technical education_
 
 **EPAM DevOps external course** (2020)
+
+## Experience
+
+**Printing Press / Offset operator** - _Farmacia, Kharkov_ (2011 - 2018)
+
+> Responsibility for producing quality printed products within production standard guidelines and customer specifications
+
+**Print process engineer / Designer** - _Farmacia, Kharkov_ (2018 - Present)
+
+> Implementation all package development graphics/printing initiatives to maintain an efficient flow of various stages of the graphic and printing process, including resolving of scheduling conflicts.
+
+## English level
+
+A2 - (Elementary English)
